@@ -1,5 +1,4 @@
 import express from 'express';
-import typeService from '../services/type.service';
 import { TriangleDto } from '../dto/triangle.dto';
 
 class TypeMiddleware {
